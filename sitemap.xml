@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baggottsbots.github.io/color-update-demo/event/</loc>
+    <lastmod>2026-06-15T00:54:32.333Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://baggottsbots.github.io/color-update-demo/agency/</loc>
     <lastmod>2026-06-15T00:54:27.757Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -8,11 +13,6 @@
   <url>
     <loc>https://baggottsbots.github.io/color-update-demo/</loc>
     <lastmod>2026-06-15T00:54:23.794Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/color-update-demo/event/</loc>
-    <lastmod>2026-06-15T00:54:05.439Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
