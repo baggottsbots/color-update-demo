@@ -1,0 +1,6 @@
+/* ===== AUTOFLOW THEME STYLES ===== */
+    :root{--accent:#00AA00;--bg:#07110a;--panel:#0f1a12;--border:#17301b;--text:#e7f5ea;--muted:#a6c3aa}
+    body{background:radial-gradient(circle at top,#103018 0,#07110a 45%,#040704 100%);color:var(--text)}
+    .accent{color:var(--accent)} .bg-accent{background:var(--accent)} .border-accent{border-color:var(--accent)}
+    .panel{background:rgba(15,26,18,.88);border:1px solid var(--border);backdrop-filter:blur(10px)}
+    .glow{box-shadow:0 0 0 1px rgba(0,170,0,.25),0 0 30px rgba(0,170,0,.14)}
