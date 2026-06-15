@@ -4,3 +4,9 @@
     .accent{color:var(--accent)} .bg-accent{background:var(--accent)} .border-accent{border-color:var(--accent)}
     .panel{background:rgba(15,26,18,.88);border:1px solid var(--border);backdrop-filter:blur(10px)}
     .glow{box-shadow:0 0 0 1px rgba(0,170,0,.25),0 0 30px rgba(0,170,0,.14)}
+
+/* ===== THEME OVERRIDES ===== */
+    body{background:#07110a;color:#e5f7e7}
+    .accent{color:#00aa00}
+    .accent-bg{background:#00aa00}
+    .accent-border{border-color:#00aa00}
